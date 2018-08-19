@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fabd577c-8628-4920-9b90-58e7c7057cdd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict_boston_house.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/predict_boston_house.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/.ipynb_checkpoints/keras_study_day1-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/keras_study_day1.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="fabd577c-8628-4920-9b90-58e7c7057cdd" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +37,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2095" />
-    <option name="y" value="47" />
+    <option name="x" value="2097" />
+    <option name="y" value="140" />
     <option name="width" value="1502" />
     <option name="height" value="830" />
   </component>
@@ -229,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533949712839</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="180813">
+      <created>1534123102383</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534123102383</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -260,7 +262,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="180802" />
-    <option name="LAST_COMMIT_MESSAGE" value="180802" />
+    <MESSAGE value="180813" />
+    <option name="LAST_COMMIT_MESSAGE" value="180813" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/keras_gpu_test.ipynb">
