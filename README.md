@@ -11,5 +11,6 @@ keras 기본서
 - CNN을 이용한 MNIST 에측 (5. predict_MNIST_with_CNN.ipynb)
 - CNN을 이용한 단일 이미지(개, 고양이) 분류(6. predict_binary_img_with_CNN.ipynb)
 - CNN을 이용한 다중 이미지 분류(7. predict_multi_img_with_CNN.ipynb)
-- RNN(LSTM)을 이용한 예측
+- RNN(LSTM)을 이용한 스팸 메일 예측(8. predict_spam_or_ham_with_LSTM.ipynb)
+- RNN(LSTM)을 이용한 한국어 뉴스 카테고리 분류(9. predict_korea_news_category_with_LSTM.ipynb)
 
